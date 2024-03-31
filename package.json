@@ -1,0 +1,30 @@
+{
+  "name": "suntvelit",
+  "version": "1.0.0",
+  "description": "Get disk usage info in pure JS via OS built-in tools",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElbertSwaniawski/suntvelit.git"
+  },
+  "keywords": [
+    "et",
+    "WMIC",
+    "dolor",
+    "et",
+    "velit"
+  ],
+  "author": "MillerBeatty",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ElbertSwaniawski/suntvelit.git/issues"
+  },
+  "homepage": "https://github.com/ElbertSwaniawski/suntvelit.git"
+}
